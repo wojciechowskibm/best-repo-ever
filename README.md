@@ -5,4 +5,5 @@ New line for conflict
 And last deleted
 
 Test Text
+test text2
 text2
